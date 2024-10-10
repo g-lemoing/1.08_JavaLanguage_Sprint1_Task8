@@ -1,6 +1,6 @@
-package nivell1.exercici3.java.com.main;
+package nivell1.exercici4.java.com.main;
 
-import nivell1.exercici3.java.com.modules.Month;
+import nivell1.exercici4.java.com.modules.Month;
 
 import java.util.Arrays;
 import java.util.List;
