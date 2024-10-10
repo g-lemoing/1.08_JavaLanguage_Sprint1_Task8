@@ -4,31 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc51a95-9340-4a4a-ba2d-15ce35bfa36a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/nivell1/exercici4/java/com/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nivell1/exercici4/java/com/modules/Month.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nivell1/exercici5/java/com/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nivell1/exercici5/java/com/modules/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nivell1/exercici6/java/com/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nivell1/exercici7/java/com/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nivell1/exercici8/java/com/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nivell1/exercici8/java/com/modules/InvertCadena.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nivell2/exercici1/java/com/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nivell2/exercici1/java/com/modules/ListOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nivell2/exercici2/java/com/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nivell2/exercici2/java/com/modules/Utilities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nivell2/exercici3/java/com/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nivell2/exercici3/java/com/modules/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nivell2/exercici3/java/com/modules/Oper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nivell2/exercici4/java/com/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nivell2/exercici4/java/com/modules/Utilities.java" afterDir="false" />
+    <list default="true" id="0bc51a95-9340-4a4a-ba2d-15ce35bfa36a" name="Changes" comment="Changes Nivell2 Ex4">
+      <change afterPath="$PROJECT_DIR$/src/nivell3/java/com/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nivell3/java/com/modules/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nivell3/java/com/modules/Utilities.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nivell1/exercici1/java/com/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nivell1/exercici1/java/com/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nivell1/exercici1/java/com/modules/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nivell1/exercici1/java/com/modules/Methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nivell1/exercici2/java/com/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nivell1/exercici2/java/com/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nivell1/exercici2/java/com/modules/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nivell1/exercici2/java/com/modules/Methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nivell1/exercici3/java/com/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nivell1/exercici3/java/com/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nivell1/exercici3/java/com/modules/Month.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nivell1/exercici3/java/com/modules/Month.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +38,9 @@
     &quot;accountId&quot;: &quot;823f34a6-ea7e-4c19-933e-e6b14dea31b7&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -95,7 +78,56 @@
       <option name="presentableId" value="Default" />
       <updated>1728293906272</updated>
     </task>
+    <task id="LOCAL-00001" summary="Changes Nivell1 Ex1-2">
+      <option name="closed" value="true" />
+      <created>1728557867441</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728557867441</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Inicial Nivell1 Ex3-8">
+      <option name="closed" value="true" />
+      <created>1728557940654</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728557940654</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Inicial Nivell2 Ex1-4">
+      <option name="closed" value="true" />
+      <created>1728558056869</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728558056869</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Changes Nivell2 Ex2">
+      <option name="closed" value="true" />
+      <created>1728558388379</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728558388379</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Changes Nivell2 Ex4">
+      <option name="closed" value="true" />
+      <created>1728558405408</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728558405408</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changes Nivell1 Ex1-2" />
+    <MESSAGE value="Inicial Nivell1 Ex3-8" />
+    <MESSAGE value="Inicial Nivell2 Ex1-4" />
+    <MESSAGE value="Changes Nivell2 Ex2" />
+    <MESSAGE value="Changes Nivell2 Ex4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes Nivell2 Ex4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
