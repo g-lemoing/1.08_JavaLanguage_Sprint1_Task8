@@ -4,7 +4,6 @@ import java.util.List;
 
 public class Utilities {
     public static List<String> sortFirstChar(List<String> inList){
-        //inList.sort((s1, s2) -> s1.charAt(0) - s2.charAt(0));
         return inList.stream().sorted((s1, s2) -> s1.charAt(0) - s2.charAt(0)).toList();
     }
 
@@ -18,7 +17,6 @@ public class Utilities {
             }
             else return 0;
         }).toList();
-        //return inList;
     }
 
     public static List<String> replaceElemWith_a(List<String> inList){

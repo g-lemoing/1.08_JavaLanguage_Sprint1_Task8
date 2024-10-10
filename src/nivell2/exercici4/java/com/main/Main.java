@@ -7,7 +7,7 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        String[] arr = new String[]{"alegria", "5.3", "170", "cama", "camell", "zebra", "3.15F", "mandarina"};
+        String[] arr = new String[]{"alegria", "53", "170", "cama", "camell", "zebra", "315", "mandarina"};
         List<String> cadenes = Arrays.asList(arr);
         System.out.println("Creem una llista de cadenes alfabètiques i de nombres: " + cadenes);
         System.out.println("Exercici 1 - Ordenem la llista pel primer caracter: " + Utilities.sortFirstChar(cadenes));
