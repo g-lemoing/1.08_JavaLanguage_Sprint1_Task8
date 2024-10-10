@@ -1,6 +1,6 @@
-package nivell1.exercici1.java.com.main;
+package nivell1.exercici2.java.com.main;
 
-import nivell1.exercici1.java.com.modules.Methods;
+import nivell1.exercici2.java.com.modules.Methods;
 
 import java.util.Arrays;
 import java.util.List;
@@ -12,7 +12,7 @@ public class Main {
         String[] arr_words = new String[] {"gos", "gat", "ostra", "elefant", "ornitorrinc"};
         List<String> words = Arrays.asList(arr_words);
         System.out.println(words);
-        System.out.println("Si filtrem les cadenes que tenen una 'o', obtenim la llista següent:\n"
+        System.out.println("Si filtrem les cadenes de més de 5 lletres que tenen una 'o', obtenim la llista següent:\n"
                 + Methods.wordsWith(LETTER, words));
     }
 }
